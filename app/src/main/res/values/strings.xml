@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Demo.Gson.Android</string>
+    <string name="text_from_json">From Json</string>
+    <string name="text_to_json">To Json</string>
+</resources>
